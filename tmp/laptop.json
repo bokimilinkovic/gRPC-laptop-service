@@ -1,0 +1,62 @@
+{
+ "id": "52397933-98b8-45b1-9946-c154680643e1",
+ "brand": "Lenovo",
+ "name": "Thinkpad PS3",
+ "cpu": {
+  "brand": "Intel",
+  "name": "Xeon E-2203M",
+  "number_cores": 5,
+  "number_threads": 10,
+  "min_ghz": 2.747623926055427,
+  "max_ghz": 4.107717488577266
+ },
+ "ram": {
+  "value": "4",
+  "unit": "GIGABYTE"
+ },
+ "gpus": [
+  {
+   "brand": "AMD",
+   "name": "RX 590",
+   "min_ghz": 1.035331510385587,
+   "max_ghz": 1.0724429004146663,
+   "memory": {
+    "value": "6",
+    "unit": "GIGABYTE"
+   }
+  }
+ ],
+ "storages": [
+  {
+   "driver": "SSD",
+   "memory": {
+    "value": "569",
+    "unit": "GIGABYTE"
+   }
+  },
+  {
+   "driver": "HDD",
+   "memory": {
+    "value": "1",
+    "unit": "TERABYTE"
+   }
+  }
+ ],
+ "screen": {
+  "size_inch": 15.1271305,
+  "resolution": {
+   "width": 5496,
+   "height": 3092
+  },
+  "panel": "OLED",
+  "multitouch": false
+ },
+ "Keyboard": {
+  "layout": "QWERTZ",
+  "backlit": true
+ },
+ "weight_kg": 2.193296151817992,
+ "price_usd": 1995.8820818285417,
+ "release_year": 2019,
+ "updated_at": "2021-01-17T14:39:38.450698Z"
+}
